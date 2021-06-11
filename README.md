@@ -3,7 +3,7 @@
 - 🤖 I’m interested in Android app development
 - 🌱 I’m currently doing Software Engineering
 - 👨‍💻 I’m also learning cross platform development using Flutter and React Native
-- 💼 Working on - C++, Kotlin, Java, Javascript, Flutter, HTML, CSS
+- 💼 Working on - C++, Kotlin, Java, Python, Javascript, Flutter, HTML, CSS
 
 <!---
 anshbajpai/anshbajpai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
