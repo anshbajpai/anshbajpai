@@ -1,4 +1,4 @@
-<img src = "avatar_profile.jpg" width = "300"/> <br>
+<img src = "new_avatar_profile.png" width = "500"/> <br>
 - 👋 Hi, I’m Ansh
 - 🤖 I’m interested in Android app development
 - 🌱 I’m currently doing Software Engineering
